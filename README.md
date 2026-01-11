@@ -12,8 +12,6 @@ I build security tools, and explore software engineering fundamentals across rea
 
 I research and develop tools that improve web and system security.
 
-I complete coding and algorithm challenges with practical scripts in Python.
-
 I explore blockchain fundamentals & decentralized applications.
 
 I participate in open source and real-world engineering workflows.
