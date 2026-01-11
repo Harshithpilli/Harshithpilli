@@ -1,6 +1,6 @@
 ## Hi, I'm Harshith 👋
 
-I build security tools, solve coding challenges, and explore software engineering fundamentals across real-world applications and algorithmic problems. I’m passionate about secure systems, network defense, and practical automation. 
+I build security tools, and explore software engineering fundamentals across real-world applications and algorithmic problems. I’m passionate about secure systems, network defense, and practical automation. 
 
 📫 Reach me: 22911a1241@vjit.ac.in or pilliharshith02@gmail.com
 
