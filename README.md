@@ -33,7 +33,7 @@ Git & GitHub workflows (CI/CD, branching, version control)
 A Python-based tool for astronomical tracking and measurement utilities.
 Useful for research, simulations, and calculating celestial data sets. 
 
-## 🛡️ WebsiteSecurityAnalyzer-2.0
+## 🛡️ WebsiteSecurityAnalyzer-3.0
 Basic Python security scanner focused on common web vulnerabilities and checks (status codes, SSL configurations, etc.). 
 
 ## 🧠 Quantum-Ml Hybrid
